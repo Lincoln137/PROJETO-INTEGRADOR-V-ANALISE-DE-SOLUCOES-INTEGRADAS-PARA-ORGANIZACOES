@@ -21,7 +21,7 @@ O presente trabalho propõe a criação de um website/app para conhecimento pré
 ### Front end
 <li>ReactJS 
 <li>React Native
-<li>JavaScipt
+<li>JavaScript
 <li>Expo CLI
 
 ### Back end
