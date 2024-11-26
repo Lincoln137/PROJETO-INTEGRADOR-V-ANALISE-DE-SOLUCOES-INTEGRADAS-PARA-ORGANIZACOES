@@ -21,14 +21,11 @@ O presente trabalho propõe a criação de um website/app para conhecimento pré
 <img align = "left" height = "300" src = https://raw.githubusercontent.com/gist/Lincoln137/0fe738455deaaecd7bcdad6709073dc0/raw/c8d330151f1f11d77adf11dc311e55d81fc5b569/PageRegister.svg />
 
 <img align = "center" height = "300" src = https://raw.githubusercontent.com/gist/Lincoln137/0fe738455deaaecd7bcdad6709073dc0/raw/5ff659ac66c0c9d260b4df8523ced9b9240e5973/PageLogin.svg />
-
+<br>
+<br>
 <img align = "center" height = "300" src = https://raw.githubusercontent.com/gist/Lincoln137/0fe738455deaaecd7bcdad6709073dc0/raw/5ff659ac66c0c9d260b4df8523ced9b9240e5973/PageMain.svg />
-
-
-
-
-
-
+<br>
+<br>
 ## Tecnologias utilizadas
 
 ### Front end
